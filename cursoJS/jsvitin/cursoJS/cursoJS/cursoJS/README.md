@@ -1,2 +1,0 @@
-# cursoJS
-Exercicios java script
